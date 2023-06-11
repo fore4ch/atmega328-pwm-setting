@@ -1,1 +1,1 @@
-# atmega328-pwm-setting
+# PWM Frequency Setting Via Registers
